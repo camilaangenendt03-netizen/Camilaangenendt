@@ -37,13 +37,15 @@ Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui v
 
 ---
 
-## 📊 Estatísticas
+## 💡 Sobre Mim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camilaangenendt03-netizen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="400"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaangenendt03-netizen&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" width="400"/>
-</div>
+Sou uma desenvolvedora passionate por tecnologia e design! Adoro criar soluções inovadoras e compartilhar conhecimento com a comunidade. Estou sempre aprendendo e explorando novas ferramentas e frameworks.
+
+---
+
+## 🎯 Objetivo
+
+Construir aplicações web de alta qualidade, focadas em experiência do usuário e boas práticas de desenvolvimento. Colaborar com equipes incríveis e contribuir para projetos open-source.
 
 ---
 
