@@ -39,13 +39,11 @@ Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui v
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=camilaangenendt03-netizen&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaangenendt03-netizen&layout=compact&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camilaangenendt03-netizen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="400"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaangenendt03-netizen&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" width="400"/>
+</div>
 
 ---
 
