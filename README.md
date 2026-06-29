@@ -1,32 +1,20 @@
 # Camila Angenendt 👋
 
-**Desenvolvedor Full Stack - Júnior**
+![Banner](./assets/banner.svg)
 
 Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui você encontra meus projetos, tecnologias que uso e formas de contato.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/camila-dami%C3%A3o-angenendt-131b47161"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/camila-dami%C3%A3o-angenendt-131b47161"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-%23ff2d95?logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/camilaangenendt03-netizen?tab=repositories&sort=stargazers"><img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/camilaangenendt03-netizen?label=Estrelas&logo=github&color=24292e&logoColor=white"/></a>
   <a href="https://github.com/camilaangenendt03-netizen?tab=followers"><img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/camilaangenendt03-netizen?label=Seguidores&logo=github&color=2ea44f&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- HERO-like intro (note: GitHub strips most CSS; this layout uses badges and dark widgets that look good on dark themes) -->
-
-<p align="left">
-  <strong style="color:#9bdcff">Desenvolvedora FullStack</strong>
-</p>
-
-Me chamo Camila Angenendt — sou desenvolvedora focada em aplicações web full-stack. Aqui mostro projetos, tecnologias que uso e formas de contato.
-
----
-
 ## Linguagens e Tecnologias
 
 <p align="left">
-
-<!-- colored badges -->
 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
