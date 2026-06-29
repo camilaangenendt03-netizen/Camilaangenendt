@@ -57,39 +57,4 @@ Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui v
 
 ---
 
-## Currículo (versão em texto — transcrição a partir do PDF/imagem)
-
-Observação: esta é uma transcrição automatizada do seu currículo (imagem). Verifique e corrija qualquer dado que esteja incorreto ou sensível.
-
-- Nome: Camila Damião Angenendt
-- Cargo (no currículo): Desenvolvedor Web Júnior
-- Email (no currículo): camila_angenendt@hotmail.com
-- Telefone (no currículo): (14) 9975-2077
-- Nacionalidade: Brasileira
-- Data / Local de nascimento: 27/04/1992 — Pompeia - SP
-- Carteira de motorista: A/B
-- Residencial: Ecoville I, nº 96, Bastos 17605-542, São Paulo (transcrição aproximada)
-
-Competências
-- JavaScript / Lógica de Programação
-- React.js e Front-end
-- Administração de Empresas
-- Git / Versionamento de Código
-
-Formação
-
-1) Ensino Superior — Anhanguera, Tupã - SP
-- Período: Fev 2017 — Dez 2020
-- Curso: Bacharelado em Administração de Empresas (conclusão: dez/2020)
-- Descrição: Foco em gestão financeira, marketing, recursos humanos e planejamento estratégico. Principais disciplinas: Gestão Financeira, Marketing, Administração de RH, Planejamento Estratégico. Realização: desenvolvimento de plano de negócios e projeto de análise de custos aplicados à empresa local.
-
-2) Bacharelado em Engenharia de Computação — UNIVESP (Universidade Virtual do Estado de São Paulo), Bastos - SP
-- Período: Jun 2015 — Jun 2020 (transcrição aproximada)
-- Descrição: Curso com foco em desenvolvimento de aplicações web completas e responsivas. Tecnologias mencionadas: JavaScript, React, Node.js, APIs, DOM e assincronismo (Fetch/async), manipulação do DOM e conceitos de programação assíncrona. Desenvolvimento de interfaces modernas e componentes reutilizáveis com React; gerenciamento de estado (Context API); criação de APIs e utilização de ferramentas como Git/GitHub e Node (npm, TypeScript). (trecho transcrito de forma resumida)
-
-Links
-- LinkedIn: https://www.linkedin.com/in/camila-dami%C3%A3o-angenendt-131b47161
-
----
-
 Obrigado por visitar o perfil! 😊
