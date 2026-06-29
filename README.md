@@ -39,14 +39,10 @@ Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui v
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaangenendt03-netizen&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaangenendt03-netizen&layout=compact&theme=dark&hide_border=true"/>
-  </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaangenendt03-netizen&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaangenendt03-netizen&layout=compact&theme=dark&hide_border=true"/>
+</div>
 
 ---
 
