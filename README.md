@@ -1,6 +1,6 @@
 # Camila Angenendt 👋
 
-**Desenvolvedora Full Stack**
+**Desenvolvedor Full Stack - Júnior**
 
 Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui você encontra meus projetos, tecnologias que uso e formas de contato.
 
@@ -43,8 +43,8 @@ Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui v
 ## Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camilaangenendt03-netizen&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaangenendt03-netizen&hide=html&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camilaangenendt03-netizen&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaangenendt03-netizen&hide=html&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
