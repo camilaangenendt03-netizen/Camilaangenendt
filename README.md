@@ -33,10 +33,12 @@ Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui v
 
 ## Projetos em destaque
 
-- [Nome-do-Projeto-1](https://github.com/camilaangenendt03-netizen/Nome-do-Projeto-1) — curta descrição do projeto, tecnologias usadas e resultado.
-- [Nome-do-Projeto-2](https://github.com/camilaangenendt03-netizen/Nome-do-Projeto-2) — outra breve descrição com link para demo / repositório.
+- [Buscador-de-reposit-rios-GitHub](https://github.com/camilaangenendt03-netizen/Buscador-de-reposit-rios-GitHub) — A web application to search and list GitHub repositories using the official GitHub API.
+- [chess-streamers](https://github.com/camilaangenendt03-netizen/chess-streamers) — Projeto Chess Streamers Hub (CSS; interface e layout para listar/mostrar streamers de xadrez).
+- [portal-teach-afiliados](https://github.com/camilaangenendt03-netizen/portal-teach-afiliados) — Projeto criado para fins de estudo e prática de React + Vite (TypeScript).
+- [Camilaangenendt](https://github.com/camilaangenendt03-netizen/Camilaangenendt) — Repositório pessoal (README do perfil e material do portfolio).
 
-> Dica: substitua os links acima pelos repositórios reais que você quer destacar.
+> Dica: se quiser, eu resumo cada projeto com tecnologias específicas ou adiciono links para demos (se houver).
 
 ---
 
@@ -51,7 +53,7 @@ Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui v
 
 ## Contato
 
-- Email: seu-email@exemplo.com
+- Email: camila_angenendt@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/camila-dami%C3%A3o-angenendt-131b47161
 
 ---
