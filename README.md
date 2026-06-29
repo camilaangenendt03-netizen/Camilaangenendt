@@ -36,7 +36,6 @@ Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui v
 - [Buscador-de-reposit-rios-GitHub](https://github.com/camilaangenendt03-netizen/Buscador-de-reposit-rios-GitHub) — A web application to search and list GitHub repositories using the official GitHub API.
 - [chess-streamers](https://github.com/camilaangenendt03-netizen/chess-streamers) — Projeto Chess Streamers Hub (CSS; interface e layout para listar/mostrar streamers de xadrez).
 - [portal-teach-afiliados](https://github.com/camilaangenendt03-netizen/portal-teach-afiliados) — Projeto criado para fins de estudo e prática de React + Vite (TypeScript).
-- [Camilaangenendt](https://github.com/camilaangenendt03-netizen/Camilaangenendt) — Repositório pessoal (README do perfil e material do portfolio).
 
 > Dica: se quiser, eu resumo cada projeto com tecnologias específicas ou adiciono links para demos (se houver).
 
