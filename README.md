@@ -44,8 +44,8 @@ Olá! Eu sou a Camila. Bem-vindo(a) ao meu perfil profissional no GitHub. Aqui v
 ## Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camilaangenendt03-netizen&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaangenendt03-netizen&hide=html&layout=compact&theme=dark" alt="Top Languages" />
+  [![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilaangenendt03-netizen&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camilaangenendt03-netizen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
@@ -89,14 +89,6 @@ Formação
 
 Links
 - LinkedIn: https://www.linkedin.com/in/camila-dami%C3%A3o-angenendt-131b47161
-
----
-
-## Como personalizar este README
-
-1. Verifique a transcrição do currículo acima e corrija quaisquer dados pessoais ou períodos que eu possa ter interpretado errado.
-2. Se quiser que eu adicione o PDF do currículo ao repositório (arquivo CV.pdf na raiz ou em /docs), envie o arquivo ou um link público e eu adiciono.
-3. Para mudar o tema visual dos widgets (ou a paleta), me diga a cor/tema desejado.
 
 ---
 
